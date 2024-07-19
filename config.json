@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "clientid": "",
+    "clientsecret": "",
+    "callbackURL": "/login",
+    "discordserver": "https://discord.gg/",
+    "port": "3001"
+}
